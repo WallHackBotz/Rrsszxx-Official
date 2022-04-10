@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Alan
+- 👋 Hi, I’m @Rrsszxx
 - 👀 I’m a student 
-- 🌱 I’m currently learning ...
+- 🌱 programming is just my Hobby 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 if you have any questions contact me on whatsapp 
+- 🌚 62895328255152 (My number) if you Have ask
 
 <!---
 WallHackBotz/WallHackBotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
